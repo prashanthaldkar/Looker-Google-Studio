@@ -1,4 +1,4 @@
-# Looker-Google-Studio
+# E-commerce / Order data summary
 
 E-Commerce website data analysis, we will create a dashboard named Order Summary
 
@@ -12,5 +12,3 @@ but before that i have done some data manupulation, as we can see the initial da
 3. The Pie chart present the Category wise sales and Bar chart represent the Sub-Category wise sales and  Sales & Profit
 
 4. The Map and the table shows the state wise sales distribution
-
-
